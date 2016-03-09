@@ -14,3 +14,5 @@ Creating a new branch is quick and simple.
 >>>>>>> feature
 Why!
 no fast forward.
+Git stash thrid.
+git push origin dev
